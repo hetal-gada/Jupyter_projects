@@ -1,2 +1,3 @@
 # Jupyter_projects
-Task 1 : amount of the variation in the output dependent attribute which is predictable from the input independent variable(s), for predicting scores based on number of hours studied.e
+Task 1 : Prediction using supervised ML- Linear Regression task to predict scores as according to number of hours.
+Task 2:  Prediction using unsupervised ML- KMeans clustering to predict optimum number of clusters and represent visually.
